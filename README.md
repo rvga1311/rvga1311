@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering student at the Tecnológico de Costa Rica</h3>
 
 -------------------
-I'm Roy Vinicio García Alvarado, a final year computer science engineering student currently completing my last semester of theoretical and practical courses. Next semester, I'll be doing my professional internship to complete my degree. I'm a collaborative team player with excellent communication skills, adaptable, and always willing to learn new skills. I'm strong at problem-solving and critical thinking and can manage multiple projects with ease. I have experience in developing documentation, testing, and software, creating websites, video games, real-time systems, and desktop applications. Additionally, I have knowledge in various computer science areas such as operating systems, compilers, languages, databases, and algorithms for data analysis.
+I'm Roy Vinicio García Alvarado, a final year computer science engineering student currently completing my last semester of theoretical and practical courses. Next semester, I'll be doing my professional internship to complete my degree. I'm a collaborative team player with excellent communication skills, adaptable, and always willing to learn new skills. I'm strong at problem-solving and critical thinking and can manage multiple projects with ease. I have experience in developing documentation, testing, and software, creating websites, video games using Unity and C, real-time systems, and desktop applications. Additionally, I have knowledge in various computer science areas such as operating systems, compilers, languages, databases, and algorithms for data analysis.
   
 ### Contact me
 + rvga1311@gmail.com
