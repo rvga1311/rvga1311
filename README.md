@@ -64,7 +64,7 @@ I have helped in various positions, including game mechanic development, interfa
 
 
 
-
+.
 ## 🤝 Soft Skills
 + Collaborative team player
 + Clear and effective communicator
