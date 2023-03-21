@@ -16,7 +16,9 @@ I'm Roy Vinicio García Alvarado, a final year computer science engineering stud
 + [Lost In The Frost](https://juuzou13.itch.io/lostinthefrost) :video_game:
 + [Tetris](https://lanzerth13.itch.io/tetris) :video_game:
   
-Under the nickname Lanzerth13, I have contributed to the development of three different games, which are published on itch.io. In each of these games, I have helped in various positions, including game mechanic development, interface creation, writer, level design, and 2D/3D animation. I'm proud of my contributions to these games and I hope players enjoy them as much as we did creating them!
+Under the nickname Lanzerth13, I've contributed to the development of three different games, which are published on itch.io. In each of these games, I've helped in various positions, including game mechanic development, interface creation, writing, level design, and 2D/3D animation. I'm proud of my contributions to these games and I hope players enjoy them as much as we did creating them!
+
+It's worth noting that the repositories for these projects are no longer available, as they were removed at the end of the free trial period for Plastic SCM. In addition, due to compatibility issues, our team has decided not to host the repositories on GitHub. However, if someone wishes to obtain the source code, they can contact one of the game developers.
 
 ## 🛠️ My Skills
 ### Programming languages:
