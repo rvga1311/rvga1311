@@ -3,10 +3,22 @@
 
 -------------------
 &emsp;
-<h3 align="left">I am currently a final year student pursuing a bachelor's degree in computer science engineering, and I am in the last semester of my theoretical and practical courses. Next semester, I will be undertaking my professional internship, which will be the final requirement to complete my degree. I am eager to make a meaningful contribution to the technology industry.</h3>
+<h3 align="left">I am currently a final year student pursuing a bachelor's degree in computer science engineering, and I am in the last semester of my theoretical and practical courses. Next semester, I will be undertaking my professional internship, which will be the final requirement to complete my degree.</h3>
 &emsp;
+  
+### Contact me
++ rvga1311@gmail.com
++ https://itch.io/profile/lanzerth13
+
 
 -------------------
+  
+## Here are some projects I have collaborated on under the nickname Lanzerth13:
++ [Lonely Walls (Backrooms Game)](https://juuzou13.itch.io/lonely-walls) :video_game:
++ [Lost In The Frost](https://juuzou13.itch.io/lostinthefrost) :video_game:
++ [Tetris](https://lanzerth13.itch.io/tetris) :video_game:
+  
+I have helped in various positions, including game mechanic development, interface creation, writer, level design, and 2D/3D animation, in the development of three different games. In each of these games, I fulfilled the same roles described above.
 
 ## 🛠️ My Skills
 ### Programming languages:
@@ -27,6 +39,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ### Services & Frameworks:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -41,6 +55,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)&nbsp;
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)&nbsp;
+  
+ <p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rvga1311&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvga1311&theme=react&layout=compact" />
+</p>
 
 
 
