@@ -59,12 +59,11 @@ I have helped in various positions, including game mechanic development, interfa
   
  <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rvga1311&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvga1311&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvga1311&theme=react&layout=compact&exclude_repo=rvga1311,HomePal&langs_count=7" />
 </p>
 
 
 
-.
 ## 🤝 Soft Skills
 + Collaborative team player
 + Clear and effective communicator
