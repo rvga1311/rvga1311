@@ -13,7 +13,7 @@
 
 -------------------
   
-## Here are some projects I have collaborated on under the nickname Lanzerth13:
+## Here are some projects I have collaborated on under the nickname Lanzerth13, which are published on itch.io:
 + [Lonely Walls (Backrooms Game)](https://juuzou13.itch.io/lonely-walls) :video_game:
 + [Lost In The Frost](https://juuzou13.itch.io/lostinthefrost) :video_game:
 + [Tetris](https://lanzerth13.itch.io/tetris) :video_game:
