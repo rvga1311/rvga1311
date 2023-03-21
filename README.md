@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering student at the Tecnológico de Costa Rica</h3>
 
 -------------------
-I'm Roy Vinicio García Alvarado, a final year computer science engineering student currently completing my last semester of theoretical and practical courses. Next semester, I'll be doing my professional internship to complete my degree. I'm a collaborative team player with excellent communication skills, adaptable, and always willing to learn new skills. I'm strong at problem-solving and critical thinking and can manage multiple projects with ease. I have experience in developing documentation, testing, and software, creating websites, desktop applications, and video games using Unity/C# and C. Additionally, I have knowledge in various computer science areas such as operating systems, compilers, languages, databases, and algorithms for data analysis.
+I'm Roy Vinicio García Alvarado, a final year computer science engineering student currently completing my last semester of theoretical and practical courses. Next semester, I'll be doing my professional internship to complete my degree. I'm a collaborative teamworker with excellent communication skills, adaptable, and always willing to learn new skills. I'm strong at problem-solving and critical thinking and can manage multiple projects with ease. I have experience in developing documentation, testing, and software, creating websites, desktop applications, and video games using Unity/C# and C. Additionally, I have knowledge in various computer science areas such as operating systems, compilers, languages, databases, and algorithms for data analysis.
   
 ### Contact me
 + rvga1311@gmail.com
@@ -16,9 +16,9 @@ I'm Roy Vinicio García Alvarado, a final year computer science engineering stud
 + [Lost In The Frost](https://juuzou13.itch.io/lostinthefrost) :video_game:
 + [Tetris](https://lanzerth13.itch.io/tetris) :video_game:
   
-Under the nickname Lanzerth13, I've contributed to the development of three different games, which are published on itch.io. In each of these games, I've helped in various positions, including game mechanic development, interface creation, writing, level design, and 2D/3D animation. I'm proud of my contributions to these games and I hope players enjoy them as much as we did creating them!
+Under the nickname Lanzerth13, I've contributed to the development of three different games, which are published on itch.io. In each of these games, I've helped in various positions, including game mechanic development, interface creation, writing, level design, 2D/3D animation, and sound design for each of these projects. I'm proud of my contributions to these games and I hope players enjoy them as much as we did creating them!
 
-It's worth noting that the repositories for these projects are no longer available, as they were removed at the end of the free trial period for Plastic SCM. In addition, due to compatibility issues, our team has decided not to host the repositories on GitHub. However, if someone wishes to obtain the source code, they can contact one of the game developers.
+The repositories for these projects are no longer available, as they were removed at the end of the free trial period for Plastic SCM. In addition, due to compatibility issues, our team has decided not to host the repositories on GitHub. However, if someone wishes to obtain the source code, they can contact one of the game developers.
 
 ## 🛠️ My Skills
 ### Programming languages:
