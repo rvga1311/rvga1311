@@ -13,12 +13,12 @@
 
 -------------------
   
-## Here are some projects I have collaborated on under the nickname Lanzerth13, which are published on itch.io:
+## Here are some projects I have collaborated:
 + [Lonely Walls (Backrooms Game)](https://juuzou13.itch.io/lonely-walls) :video_game:
 + [Lost In The Frost](https://juuzou13.itch.io/lostinthefrost) :video_game:
 + [Tetris](https://lanzerth13.itch.io/tetris) :video_game:
   
-I have helped in various positions, including game mechanic development, interface creation, writer, level design, and 2D/3D animation, in the development of three different games. In each of these games, I fulfilled the same roles described above.
+Under the pseudonym Lanzerth13, I have contributed to the development of three different games, which are published on itch.io. In each of these games, I have helped in various positions, including game mechanic development, interface creation, writer, level design, and 2D/3D animation. I'm proud of my contributions to these games and I hope players enjoy them as much as we did creating them!
 
 ## 🛠️ My Skills
 ### Programming languages:
