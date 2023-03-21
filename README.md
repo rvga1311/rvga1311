@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Roy García 👋💻 <img height="40"</h1>
+<h1 align="center">Hi, I'm Roy García 👋💻 <img height="40"</h1>
 <h3 align="center">Computer Science Engineering student at the Tecnológico de Costa Rica</h3>
 
 -------------------
