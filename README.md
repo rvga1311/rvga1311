@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Roy Vinicio García Alvarado👋💻 <img height="40"</h1>
+<h1 align="center">Hi, Roy García 👋💻 <img height="40"</h1>
 <h3 align="center">Computer Science Engineering student at the Tecnológico de Costa Rica</h3>
 
 -------------------
 &emsp;
-<h3 align="left">I am currently a final year student pursuing a bachelor's degree in computer science engineering, and I am in the last semester of my theoretical and practical courses. Next semester, I will be undertaking my professional internship, which will be the final requirement to complete my degree.</h3>
+<h3 align="left">I'm Roy Vinicio García Alvarado. I am currently a final year student pursuing a bachelor's degree in computer science engineering, and I am in the last semester of my theoretical and practical courses. Next semester, I will be undertaking my professional internship, which will be the final requirement to complete my degree.</h3>
 &emsp;
   
 ### Contact me
