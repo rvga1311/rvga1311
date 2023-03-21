@@ -2,9 +2,7 @@
 <h3 align="center">Computer Science Engineering student at the Tecnológico de Costa Rica</h3>
 
 -------------------
-&emsp;
-<h3 align="left">I'm Roy Vinicio García Alvarado. I am currently a final year student pursuing a bachelor's degree in computer science engineering, and I am in the last semester of my theoretical and practical courses. Next semester, I will be undertaking my professional internship, which will be the final requirement to complete my degree.</h3>
-&emsp;
+I'm Roy Vinicio García Alvarado. I am currently a final year student pursuing a bachelor's degree in computer science engineering, and I am in the last semester of my theoretical and practical courses. Next semester, I will be undertaking my professional internship, which will be the final requirement to complete my degree. I am a collaborative team player with excellent communication skills, able to solve problems creatively and think critically. I am adaptable and always willing to learn new skills, and I excel at working well under pressure. My strong organizational skills allow me to manage multiple active projects with ease. With regards to my experience, I have worked on various projects, including developing documentation, testing, and software, meeting functional and non-functional requirements within agreed timelines. I have also created websites, video games, real-time systems using sockets for bilateral communication between services, and desktop applications for Windows and Linux. Additionally, I have knowledge in computer science areas such as operating systems, compilers, languages, databases, computer hardware, algorithms for data analysis, among others.
   
 ### Contact me
 + rvga1311@gmail.com
@@ -47,6 +45,7 @@ Under the nickname Lanzerth13, I have contributed to the development of three di
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket-dot-io&logoColor=white)
 
 
 ### Databases
@@ -60,15 +59,3 @@ Under the nickname Lanzerth13, I have contributed to the development of three di
  <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rvga1311&theme=algolia&show_icons=true&include_all_commits=true" />
 </p>
-
-
-
-## 🤝 Soft Skills
-+ Collaborative team player
-+ Clear and effective communicator
-+ Creative problem solver
-+ Adaptable and willing to learn new skills
-+ Critical thinker
-+ Self-directed learner
-+ Ability to work well under pressure
-+ Empathetic and respectful towards other
